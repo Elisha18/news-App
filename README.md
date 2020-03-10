@@ -6,6 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Description of Project
+
+Tried to create a News Application which fetches the current news headline of various news resources using Rest API and Web Services, this project is deployed on Angular 8 Framework using Angular Material UI component Module. 
+
+## Screen Shots of the project
+![Image-1](image1.png)
+![Image-2](image3.png)
+![Image-3](image2.png)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
